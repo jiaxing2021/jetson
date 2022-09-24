@@ -1,2 +1,2 @@
 # jetson
-# Some code are related to jetson nano
+# Some codes are related to jetson nano
